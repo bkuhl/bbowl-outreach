@@ -1,4 +1,10 @@
-bbowl-outreach
+All In: Growing Bible Bowl In Your Area
 ==============
 
-Resources and slides relating to a workshop given at the National Bible Bowl tournament
+Slides used in a workshop on Tuesday, July 8th 2014 at the National Bible Bowl tournament.
+
+[View slides]()
+
+Downloads:
+
+ * [Request For More Information.pdf](Request-for-more-information.pdf)
