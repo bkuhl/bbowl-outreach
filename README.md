@@ -8,3 +8,4 @@ Slides used in a workshop on Tuesday, July 8th 2014 at the National Bible Bowl t
 Downloads:
 
  * [Request For More Information.pdf](http://bkuhl.github.io/bbowl-outreach/Request-for-more-information.pdf)
+ * Marketing materials can be downloaded from the [Bible Bowl Wiki](http://wiki.biblebowl.net/Marketing)
