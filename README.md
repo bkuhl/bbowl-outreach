@@ -4,6 +4,7 @@ All In: Growing Bible Bowl In Your Area
 Slides used in a workshop on Tuesday, July 8th 2014 at the National Bible Bowl tournament.
 
 [View slides](http://bkuhl.github.io/bbowl-outreach)
+
 [View video](https://www.youtube.com/watch?v=sI9uESZ7Meg)
 
 Downloads:
